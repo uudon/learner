@@ -116,6 +116,7 @@ public class FreeQuestionActivity extends BaseAcitivty {
         if (mFreeQuestionAdapter == null) {
             mFreeQuestionAdapter = new FreeQuestionAdapter(getContext());
         }
+
         mFreeQuestionAdapter.setAnswerRightCallBack(new AnswerRightCallBack() {
             @Override
             public void onAnswerRight(SimpleQuestionInfo simpleQuestionInfo) {
