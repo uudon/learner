@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">learner</string>
+    <string name="free_question_activity">每日十题</string>
+    <string name="driver_question_activity">驾考</string>
+    <string name="answer_a">A.%s</string>
+    <string name="answer_b">B.%s</string>
+    <string name="answer_c">C.%s</string>
+    <string name="answer_d">D.%s</string>
+    <string name="answer_true">A.%s</string>
+    <string name="answer_false">B.%s</string>
+    <string name="answer_null">请回答问题</string>
+    <string name="answer_right">正确答案: %s</string>
+    <string name="answer_analysis">答案解析: %s</string>
+    <string name="question_select">选择题</string>
+    <string name="question_tf">判断题</string>
+    <string name="btn_answer_look">想看解析</string>
+    <string name="dialog_loading">拼命加载中...</string>
+</resources>
